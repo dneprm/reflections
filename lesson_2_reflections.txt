@@ -1,1 +1,2 @@
-When I initialize a repozitory it has no commits. I have to create them myself.
+When I initialize a repository it has no commits. I have to create them myself.
+Staging area is different from the repository because the repository contains all the files that are in the working directory and staging area contains only those you have chosen.

@@ -1,0 +1,1 @@
+When I initialize a repozitory it has no commits. I have to create them myself.

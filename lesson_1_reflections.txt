@@ -1,0 +1,7 @@
+It is really helpfull because it gives you the difference in the files, so you can find what has been changed.
+Once you change the code and the program doesn't work any more, if you use the version control system and have the entire history of file, you can always find what went wrong.
+Plus is that you can choose when to commit but minus can be that sometimes you can make a wrong choice.
+Multiple files commit is usefull for the files that are connected with each other.
+I can use the git log command to see the whole history of commits, I can see the time of changes, who made them, and comments on each commit(if there are such). The git diff command helps to see what has been changed in two compared versions of code.
+Using version control helps to be more confident because you know that you can always come back to any version of the code
+I want to try to use git for my own files

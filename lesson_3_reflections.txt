@@ -1,0 +1,2 @@
+Probably I would want to create a remote repository when I work on a project with other people
+I might want to always pull changes manually because I always have a choice which file to push and which not to

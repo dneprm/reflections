@@ -1,2 +1,7 @@
 When I initialize a repository it has no commits. I have to create them myself.
 Staging area is different from the repository because the repository contains all the files that are in the working directory and staging area contains only those you have chosen.
+I can use staging area to make one commit per logical change, I mean I can add only those files that are necessary.
+Branches would be helpful in keeping my history organized when I want to add something new to my code but still want to develop the main (master) version, for example, to add a new experimental feature or add another language etc.
+Diagrams help visualizing the branch structure because using them makes the picture whole.
+The result of merging two branches together is the new version with changes which were in two different branches.
+Automatic mergin is comfortable and fast when there is no conflict in code in different versions. While there is a conflict manual merging should be used.

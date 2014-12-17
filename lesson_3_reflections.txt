@@ -1,6 +1,6 @@
 Probably I would want to create a remote repository when I work on a project with other people
 I might want to always pull changes manually because I always have a choice which file to push and which not to
-Forks is used when you do not have permition to change file, clones is used to get get a repository from GitHub, branches are the different versions of your file
+Forks is used when you do not have permition to change file, clones is used to get  a repository from GitHub, branches are the different versions of your file
 Having a copy of the last known state of the remote stored locally is very useful if you work with other people and you want to stay up-to-date all the time. Briefly, it makes the work more efficient.
 Collaborating without using Git or GitHub would be more difficult especially when the members of the team work in different cities or even countries.
-I would want to make changes in a separate branch rather than directly in master when I am not sure in this changes and I want the other members of the team to check it out 
+I would want to make changes in a separate branch rather than directly in master when I am not sure in these changes and I want the other members of the team to check them out 
